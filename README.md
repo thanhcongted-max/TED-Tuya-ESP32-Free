@@ -38,7 +38,7 @@ thức của Arduino arduino.cc. Tất cả các công việc biên dịch, nạ
 thực hiện trên Arduino IDE 2. 
 
 ```text
-[pio run](https://github.com/thanhcongted-max/TED-Tuya-ESP32-Free/releases/download/V1.0.0/package_ted_tuya_esp32_index.json)
+https://github.com/thanhcongted-max/TED-Tuya-ESP32-Free/releases/download/V1.0.0/package_ted_tuya_esp32_index.json
 ```
 install full [TED_TUYA_ESP32](https://thanhcongted.com/webinstaller/ted_tuya_pay.html) 
 
